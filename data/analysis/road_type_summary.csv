@@ -1,6 +1,6 @@
-osm_type,n_annotations,n_locations,women_mean,men_mean,sex_ratio_mean,pct_with_footpath,pct_with_litter,pct_with_potholes,pct_with_lane_markings
-primary,79,63,1.412,3.833,0.426,0.0,0.9333333333333333,0.5,1.0
-residential,1362,1003,1.917,3.715,0.751,0.0,0.9166666666666666,0.1643835616438356,0.782608695652174
-secondary,166,120,2.103,5.736,0.454,0.0,0.9444444444444444,,1.0
-tertiary,293,215,2.071,5.061,0.505,0.0,0.9420289855072463,0.375,0.9489795918367347
-unclassified,47,34,1.714,3.429,0.608,0.0,1.0,0.0,0.5
+osm_type,n_annotations,n_locations,women_mean,men_mean,prop_women_mean,pct_with_footpath,pct_with_litter,pct_with_potholes,pct_with_lane_markings
+primary,79,63,0.342,2.43,0.113,0.481,0.215,0.013,0.405
+residential,1362,1003,0.496,1.703,0.24,0.251,0.273,0.011,0.161
+secondary,166,120,0.735,3.681,0.17,0.53,0.127,0.0,0.524
+tertiary,293,215,0.601,2.853,0.185,0.498,0.246,0.01,0.331
+unclassified,47,34,0.255,1.021,0.223,0.149,0.319,0.0,0.17

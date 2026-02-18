@@ -1,4 +1,4 @@
-city,n_annotations,n_locations,women_mean,women_std,men_mean,men_std,sex_ratio_mean,sex_ratio_std,pct_with_footpath,pct_with_litter,pct_with_potholes,pct_with_lane_markings
-Delhi,774,500,1.727,1.232,3.591,3.245,0.653,0.857,0.0,0.9019607843137255,0.19047619047619047,0.7987804878048781
-Mumbai,636,498,2.013,1.381,5.057,4.286,0.541,0.493,0.0,0.9508196721311475,0.2,0.9625668449197861
-Navi Mumbai,537,437,2.107,1.931,3.535,3.182,0.893,1.607,0.0,0.9320987654320988,0.15,0.7884615384615384
+city,n_annotations,n_locations,women_mean,women_std,men_mean,men_std,prop_women_mean,prop_women_std,pct_with_footpath,pct_with_litter,pct_with_potholes,pct_with_lane_markings
+Delhi,774,500,0.377,0.917,1.579,2.779,0.209,0.321,0.186,0.271,0.013,0.173
+Mumbai,636,498,0.731,1.274,3.121,4.151,0.213,0.286,0.502,0.214,0.005,0.292
+Navi Mumbai,537,437,0.475,1.27,1.488,2.702,0.235,0.314,0.294,0.281,0.011,0.229
