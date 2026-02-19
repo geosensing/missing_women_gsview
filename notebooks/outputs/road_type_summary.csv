@@ -1,0 +1,6 @@
+osm_type,n_annotations,n_locations,women_mean,men_mean,prop_women_mean,pct_with_footpath,pct_with_litter,pct_with_potholes,pct_with_lane_markings
+primary,79,63,0.342,2.43,0.113,0.481,0.215,0.013,0.405
+residential,1362,1003,0.496,1.703,0.24,0.251,0.273,0.011,0.161
+secondary,166,120,0.735,3.681,0.17,0.53,0.127,0.0,0.524
+tertiary,293,215,0.601,2.853,0.185,0.498,0.246,0.01,0.331
+unclassified,47,34,0.255,1.021,0.223,0.149,0.319,0.0,0.17
