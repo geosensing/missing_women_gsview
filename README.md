@@ -28,10 +28,11 @@ Proportion of women is lowest on primary/secondary roads and highest in resident
 
 ### Infrastructure
 
-- **Potholes**: ~1% of locations across all cities
-- **Litter**: 21-28% of locations
-- **Lane markings**: 17-29% (more common in Mumbai)
-- **Footpaths**: 19-50% (most common in Mumbai at 50%)
+| City | Potholes | Litter | Footpath | Lane Markings |
+|------|----------|--------|----------|---------------|
+| Delhi | 1% | 27% | 19% | 17% |
+| Mumbai | 1% | 21% | 50% | 29% |
+| Navi Mumbai | 1% | 28% | 29% | 23% |
 
 ## Data Pipeline
 
