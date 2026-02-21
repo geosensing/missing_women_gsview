@@ -1,0 +1,8 @@
+factor,level,n,mean,median,std
+land_use,Residential,259,0.321,0.167,0.387
+land_use,Mixed use,489,0.224,0.125,0.283
+land_use,Commercial/Institutional,284,0.113,0.0,0.204
+land_use,Highway/Out of city/Empty land,4,0.0,0.0,0.0
+footpath,No sidewalk,544,0.239,0.062,0.325
+footpath,Paved,330,0.189,0.0,0.27
+footpath,Paved - Blocked,98,0.167,0.031,0.231

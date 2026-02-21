@@ -1,0 +1,15 @@
+capture_year,city,n_annotations,prop_women_mean,prop_women_std
+2015,Mumbai,1,,
+2016,Mumbai,6,0.0,0.0
+2018,Mumbai,1,,
+2021,Mumbai,368,0.201,0.276
+2021,Navi Mumbai,125,0.201,0.313
+2022,Delhi,557,0.216,0.325
+2022,Mumbai,8,0.106,0.152
+2022,Navi Mumbai,63,0.282,0.363
+2023,Delhi,16,0.115,0.221
+2024,Mumbai,211,0.235,0.299
+2024,Navi Mumbai,190,0.247,0.311
+2025,Delhi,201,0.205,0.322
+2025,Mumbai,41,0.275,0.335
+2025,Navi Mumbai,159,0.234,0.31
